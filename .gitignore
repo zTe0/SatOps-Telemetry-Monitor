@@ -1,0 +1,12 @@
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local development files
+.env
+venv/
+
+README0.md
